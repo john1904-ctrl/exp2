@@ -2,6 +2,7 @@
 
 ## AIM
 
+
 To design responsive mobile and web layouts for an existing digital product by applying Gestalt principles, UI patterns, usability guidelines, and branding techniques — ensuring a cohesive and user-centered experience.
 
 ## ALGORITHM
